@@ -1,3 +1,6 @@
-<resources>
-    <string name="app_name">INFO6130-Lab1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">INFO6130-Lab1</string>
+    <string name="created_by_krunal_shah">Created by Krunal Shah</string>
+    <string name="take_survey">Take Survey</string>
+    <string name="instructions">Instructions</string>
 </resources>
