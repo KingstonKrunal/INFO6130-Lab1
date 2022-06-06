@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.INFO6130Lab1">
         <activity
+            android:name=".InstructionsActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
